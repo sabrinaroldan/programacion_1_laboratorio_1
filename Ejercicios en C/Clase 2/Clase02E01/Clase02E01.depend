@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553214309 source:c:\users\alumno\desktop\utn\programacion_1_laboratorio_1\ejercicios en c\clase 2\clase02e01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
